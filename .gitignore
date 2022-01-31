@@ -1,0 +1,11 @@
+# latex
+*.aux
+*.log
+*.bbl
+*.gz
+*.toc
+*.blg
+*.bak
+*.lot
+*.out
+*.dvi
